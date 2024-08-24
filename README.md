@@ -1,5 +1,5 @@
 **Terraform AWS EC2 Setup**
-Welcome to the Terraform AWS EC2 setup repository! This project contains the necessary Terraform configurations to create and manage AWS EC2 instances.
+Welcome to the **Terraform AWS EC2 setup repository**! This project contains the necessary Terraform configurations to **create and manage AWS EC2 instances.**
 
 **Files**
 **aws.tf**: This file includes the Terraform configuration for the AWS provider and the EC2 instance you'll be setting up.
@@ -51,4 +51,4 @@ Copy code
 Please remember to keep your terraform.tfvars file secure, as it contains sensitive information like AWS credentials. Ensure that this file is not shared or committed to version control.
 
 **Contributing**
-We welcome contributions! Feel free to open issues or submit pull requests if you have improvements or fixes.
+I welcome contributions! Feel free to open issues or submit pull requests if you have improvements or fixes.
